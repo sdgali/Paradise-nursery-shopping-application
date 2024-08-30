@@ -1,0 +1,103 @@
+{ 
+  "plant": {
+    "status": true,
+    "data": [
+      {
+        "id": 1,
+        "name": "Rose",
+        "cost": 15,
+        "img": "https://i.ibb.co/sFNwSs8/Sdo-J4t-Q2z.jpg",
+        "description": "filters formaldehyde and xylene from the air",
+        "feature": "Air Purifying"
+      },
+      {
+        "id": 2,
+        "name": "Tulip",
+        "cost": 55,
+        "img": "https://i.ibb.co/ncd3K1J/2.webp",
+        "description": "filters formaldehyde and xylene from the air",
+        "feature": "Air Purifying"
+      },
+      {
+        "id": 3,
+        "name": "Sunflower",
+        "cost": 35,
+        "img": "https://i.ibb.co/Rb1VZzQ/1.webp",
+        "description":"filters formaldehyde and xylene from the air",
+        "feature": "Air Purifying"
+      },
+      {
+        "id": 4,
+        "name": "Daisy",
+        "cost": 100,
+        "img": "https://i.ibb.co/FKL1Kdj/3.webp",
+        "description": "filters formaldehyde and xylene from the air",
+        "feature": "Air Purifying"
+      },
+      {
+        "id": 5,
+        "name": "Lily",
+        "cost": 80,
+        "img": "https://i.ibb.co/26bX7Yz/4.webp",
+        "description": "filters formaldehyde and xylene from the air",
+        "feature": "Air Purifying"
+      },
+      {
+        "id": 6,
+        "name": "Jasmine",
+        "cost": 150,
+        "img": "https://i.ibb.co/bz3TLN9/5.webp",
+        "description": "filters formaldehyde and xylene from the air",
+        "feature": "Air Purifying"
+      },
+      {
+        "id": 7,
+        "name": "Marigold",
+        "cost": 50,
+        "img": "https://i.ibb.co/n7SyWCN/7.webp",
+        "description": "Removes moid spores and purifies the air",
+        "feature": "aromatik fragrant "
+      },
+      {
+        "id": 8,
+        "name": "Daffodil",
+        "cost": 35,
+        "img": "https://i.ibb.co/2hKwPB1/8.webp",
+        "description": "Removes moid spores and purifies the air",
+        "feature": "aromatik fragrant "
+      },
+      {
+        "id": 9,
+        "name": "Levender",
+        "cost": 100,
+        "img": "https://i.ibb.co/HrSW5vh/9.webp",
+        "description": "Removes moid spores and purifies the air",
+        "feature": "aromatik fragrant "
+      },
+      {
+        "id": 10,
+        "name": "Hibiscus",
+        "cost": 80,
+        "img": "https://i.ibb.co/nQWMngz/10.webp",
+        "description": "Removes moid spores and purifies the air",
+        "feature": "aromatik fragrant "
+      },
+      {
+        "id": 11,
+        "name": "Peony",
+        "cost": 10,
+        "img": "https://i.ibb.co/NSXkjR0/11.webp",
+        "description": "Removes moid spores and purifies the air",
+        "feature": "aromatik fragrant "
+      },
+      {
+        "id": 12,
+        "name": "Orchid",
+        "cost": 40,
+        "img": "https://i.ibb.co/RvThGL1/12.webp",
+        "description": "Removes moid spores and purifies the air",
+        "feature": "aromatik fragrant "
+      }
+    ]
+  }
+}

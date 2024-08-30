@@ -1,0 +1,26 @@
+
+#title{
+  color: black ;
+  display: flex;
+  justify-content:center;
+  margin:0px 0px;
+  font-size: 25px;
+  font-weight: bolder;
+  }
+
+  .center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; 
+    margin: 0;
+    padding: 0;
+  }
+  #line{
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #999e9f;
+    margin-top: px;
+  }
