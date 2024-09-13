@@ -1,8 +1,21 @@
-# React + Vite
+# Paradise Nursery Shopping Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a shopping cart application for an online plant shop.
 
-Currently, two official plugins are available:
+## How to Run
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sdgali/Paradise-nursery-shopping-application.git
+   cd Paradise-nursery-shopping-application
+
+2. Install dependencies:
+   npm install
+
+3. Run the JSON server:
+   npx json-server --watch src/data/db.json --port 8000
+
+4. Run the development server:
+   npm run dev
+
+The app is now available
